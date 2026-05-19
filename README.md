@@ -6,9 +6,9 @@ This project analyses customer behaviour using transactional data. The workflow 
 
 | File | Purpose |
 |------|---------|
-| `analysis.ipynb` | Jupyter notebook – data loading, cleaning, exploratory analysis, and export of cleaned data |
-| `queries.sql` | PostgreSQL queries – business insights (e.g., customer segmentation, sales trends) |
-| `dashboard.pbix` | Power BI report – visualises key metrics, customer segments, and revenue drivers |
+| `customer_behavior_analysis.ipynb` | Jupyter notebook – data loading, cleaning, exploratory analysis, and export of cleaned data |
+| `customer_behavior.sql` | PostgreSQL queries – business insights (e.g., customer segmentation, sales trends) |
+| `customer_behaviour.pbix` | Power BI report – visualises key metrics, customer segments, and revenue drivers |
 
 ## 🔁 End‑to‑End Workflow
 
